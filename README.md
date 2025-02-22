@@ -34,7 +34,7 @@ In this analysis, various technical data analysis techniques and visualizations 
 - **Images, Colour Scheme and Typography**
 
 ## UI/UX Design
-
+The dashboard design underwent the 'Five Design Sheet' process, to ensure that it effectively communicated the data. The 'Five Design Sheet' process can be found [here](https://github.com/jabichebli/aussieAthletesAnalysis/blob/main/Dashboard%20Design%20-%20Five%20Design%20Sheets.pdf).
 
 ## Feedback
 If you have any feedback, suggestions, or questions about the data analysis, feel free to [contact me](https://jabichebli.github.io/jabichebli/contact.html). Your input is valuable and will help improve the analysis.
